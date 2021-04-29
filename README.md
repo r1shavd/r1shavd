@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * हैलो, मेरा नाम रिशव है।
-* हैलो, मेरा नाम रिशव है।
+* Здравствуйте, меня зовут Ришав.
 * Selam, Ben Rishav.
 * سلام، من ریصب هستم
 * Hola, Yo soy Rishav.
