@@ -24,7 +24,7 @@ The docs format is written below in list :
 # {CHANGES TO BE SPECIFIED IN NUMERIC ORDER, IF ANY OTHERWISE LEAVE THE SECTION BLANK}
 #
 # Authors contributed to this script (Add your name below if you have contributed) :
-# 1. Rishav Das (https://github.com/rdofficial/, email:rdofficial192@gmail.com)
+# 1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 #
 # ----
 ```
@@ -46,7 +46,7 @@ Changes made in last modification :
 {CHANGES TO BE SPECIFIED IN NUMERIC ORDER, IF ANY OTHERWISE LEAVE THE SECTION BLANK}
 
 Authors contributed to this script (Add your name below if you have contributed) :
-1. Rishav Das (https://github.com/rdofficial/, email:rdofficial192@gmail.com)
+1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 """
 ```
 
@@ -67,7 +67,7 @@ Changes made in last modification :
 {CHANGES TO BE SPECIFIED IN NUMERIC ORDER, IF ANY OTHERWISE LEAVE THE SECTION BLANK}
 
 Authors contributed to this script (Add your name below if you have contributed) :
-1. Rishav Das (https://github.com/rdofficial/, email:rdofficial192@gmail.com)
+1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 */
 ```
 
@@ -88,7 +88,7 @@ Changes made in last modification :
 {CHANGES TO BE SPECIFIED IN NUMERIC ORDER, IF ANY OTHERWISE LEAVE THE SECTION BLANK}
 
 Authors contributed to this script (Add your name below if you have contributed) :
-1. Rishav Das (https://github.com/rdofficial/, email:rdofficial192@gmail.com)
+1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 */
 ```
 
@@ -109,7 +109,7 @@ Changes made in last modification :
 {CHANGES TO BE SPECIFIED IN NUMERIC ORDER, IF ANY OTHERWISE LEAVE THE SECTION BLANK}
 
 Authors contributed to this script (Add your name below if you have contributed) :
-1. Rishav Das (https://github.com/rdofficial/, email:rdofficial192@gmail.com)
+1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 */
 ```
 
@@ -130,7 +130,7 @@ Changes made in last modification :
 {CHANGES TO BE SPECIFIED IN NUMERIC ORDER, IF ANY OTHERWISE LEAVE THE SECTION BLANK}
 
 Authors contributed to this script (Add your name below if you have contributed) :
-1. Rishav Das (https://github.com/rdofficial/, email:rdofficial192@gmail.com)
+1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 */
 ```
 
@@ -151,6 +151,6 @@ Changes made in last modification :
 {CHANGES TO BE SPECIFIED IN NUMERIC ORDER, IF ANY OTHERWISE LEAVE THE SECTION BLANK}
 
 Authors contributed to this script (Add your name below if you have contributed) :
-1. Rishav Das (https://github.com/rdofficial/, email:rdofficial192@gmail.com)
+1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 -->
 ```
