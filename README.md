@@ -7,7 +7,7 @@
 * Hola, Yo soy Rishav.
 * Hello, I am Rishav.
 
-After introducing my name to you in different languages I know, let's begin to dig out some information about me. (_The items marked with * symbol indicates that  I have a few knowledge or do not practice that field much often).
+After introducing my name to you in different languages I know, let's begin to dig out some information about me. (_The items marked with * symbol indicates that  I have a few knowledge or do not practice that field much often_).
 
 * __🤓 Programming Languages I know__ : Python, Javascript, PHP, C, C++, bash (shell) scripting, Typescript*, Go*, Java*, HTML-CSS
 * __😃 Technologies and framework experienced of__ : Django, Tkinter, Qt5*, VanillaJs, NodeJs, express.js, react.js*, Linux, Raspberry Pi, NGINX, TOR
@@ -21,8 +21,8 @@ After introducing my name to you in different languages I know, let's begin to d
 
 ### My Github stats
 
-![rdofficial's github stats](https://github-readme-stats.vercel.app/api?username=rdofficial&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdofficial&theme=dark)
+![rdofficial's github stats](https://github-readme-stats.vercel.app/api?username=rdofficial&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdofficial&theme=gotham)
 
 ### Projects I made
 
