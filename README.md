@@ -9,11 +9,11 @@
 
 After introducing my name to you in different languages I know, let's begin to dig out some information about me. (_The items marked with * symbol indicates that  I have a few knowledge or do not practice that field much often_).
 
-* __🤓 Programming Languages I know__ : Python, Javascript, PHP, C, C++, bash (shell) scripting, Typescript*, Go*, Java*, HTML-CSS
-* __😃 Technologies and framework experienced of__ : Django, Tkinter, Qt5*, VanillaJs, NodeJs, express.js, react.js*, Linux, Raspberry Pi, NGINX, TOR
+* __🤓 Programming Languages I know__ : Python, Javascript, PHP, C, C++, bash (shell) scripting, Typescript*, Go*, Java*, HTML-CSS, Perl.
+* __😃 Technologies and framework experienced of__ : Django, Tkinter, Qt5*, VanillaJs, NodeJs, express.js, react.js*, Linux, Raspberry Pi, NGINX, TOR.
 * __😇 Spoken languages I know__ : English, Hindi, Bengali, Urdu, Russian, Spanish, Persian, Arabic (Masri)*, Turkish*.
 * __📚 Education__ : Currently in High School.
-* __📃 Brief info__ : Born in 2004, haling from India. Living to learn, earn and explore the diversities around. Meanwhile helping others too.
+* __📃 Brief info__ : Born in 2004, hailing from India. Living to learn, earn and explore the diversities around. Meanwhile helping others too.
 * __🔍 Reach me__:
   * _Mail_ : rdofficial192@gmail.com
   * _Instagram_ : https://www.instagram.com/rishavd._/
