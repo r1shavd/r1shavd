@@ -11,7 +11,7 @@ After introducing my name to you in different languages I know, let's begin to d
 
 * __🤓 Programming Languages I know__ : Python, Javascript, PHP, C, C++, bash (shell) scripting, Typescript*, Go*, Java*, HTML-CSS, Perl.
 * __😃 Technologies and framework experienced of__ : Django, Tkinter, Qt5*, VanillaJs, NodeJs, express.js, react.js*, Linux, Raspberry Pi, NGINX, TOR.
-* __😇 Spoken languages I know__ : English, Hindi, Bengali, Urdu, Russian, Spanish, Persian, Arabic (Masri)*, Turkish*.
+* __😇 Spoken languages I know__ : English, Hindi, Bengali, Urdu, Russian, Spanish, Persian, Arabic (Masry)*, Turkish*, Telugu*, Tajiki*.
 * __📚 Education__ : Currently in High School.
 * __📃 Brief info__ : Born in 2004, hailing from India. Living to learn, earn and explore the diversities around. Meanwhile helping others too.
 * __🔍 Reach me__:
@@ -21,8 +21,13 @@ After introducing my name to you in different languages I know, let's begin to d
 
 ### My Github stats
 
-![rdofficial's github stats](https://github-readme-stats.vercel.app/api?username=rdofficial&show_icons=true&theme=gotham)
+![rdofficial's github stats](https://github-readme-streak-stats.herokuapp.com/?user=rdofficial&theme=chartreuse-dark&hide_border=True)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdofficial&theme=gotham)
+<p>
+ <b>Visitors count</b>
+ <br>
+ <img src="https://profile-counter.glitch.me/rdofficial/count.svg" alt="Visitors count">
+</p>
 
 ### Projects I made
 
