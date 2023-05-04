@@ -11,8 +11,8 @@ After introducing my name to you in different languages I know, let's begin to d
 
 * __🤓 Programming Languages I know__ : Python, Javascript, PHP, C, C++, bash (shell) scripting, Typescript*, Go*, Java*, HTML-CSS, Perl.
 * __😃 Technologies and framework experienced of__ : Django, Tkinter, Qt5*, VanillaJs, NodeJs, express.js, react.js*, Linux, Raspberry Pi, NGINX, TOR.
-* __😇 Spoken languages I know__ : English, Hindi, Bengali, Urdu, Russian, Spanish, Persian, Arabic (Masry)*, Turkish*, Telugu*, Tajiki*.
-* __📚 Education__ : Currently in High School.
+* __😇 Spoken languages I know__ : English, Hindi, Bengali, Urdu, Russian, Spanish, Persian, Arabic (Masry)*.
+* __📚 Education__ : Currently pursuing Bachelors of Technology.
 * __📃 Brief info__ : Born in 2004, hailing from India. Living to learn, earn and explore the diversities around. Meanwhile helping others too.
 * __🔍 Reach me__:
   * _Mail_ : rdofficial192@gmail.com
