@@ -1,39 +1,32 @@
 ### Hi there 👋
 
-* नमस्ते, मेरा नाम रिशव है।
-* Здравствуйте, меня зовут Ришав.
-* Selam, Ben Rishav.
-* سلام، من ریصب هستم
-* Hola, Yo soy Rishav.
-* Hello, I am Rishav.
+My name is Rishav Das, currently pursuing an undergraduate course (B.Tech) in Computer Science and Engineering. I hail from India and below are some of the skills I got experience in.
 
-After introducing my name to you in different languages I know, let's begin to dig out some information about me. (_The items marked with * symbol indicates that  I have a few knowledge or do not practice that field much often_).
-
-* __🤓 Programming Languages I know__ : Python, Javascript, PHP, C, C++, bash (shell) scripting, Typescript*, Go*, Java*, HTML-CSS, Perl.
-* __😃 Technologies and framework experienced of__ : Django, Tkinter, Qt5*, VanillaJs, NodeJs, express.js, react.js*, Linux, Raspberry Pi, NGINX, TOR.
-* __😇 Spoken languages I know__ : English, Hindi, Bengali, Urdu, Russian, Spanish, Persian, Arabic (Masry)*.
-* __📚 Education__ : Currently pursuing Bachelors of Technology.
+* __🤓 Programming Languages I know__ : Python, Javascript, PHP, C, bash (shell) scripting, HTML-CSS, Java.
+* __😃 Technologies and framework experienced of__ : Django, Tkinter, VanillaJs, NodeJs, express.js, react.js, Linux System Administrations, NGINX, TOR.
+* __😇 Spoken languages I know__ : English, Hindi, Bengali.
+* __📚 Education__ : Currently pursuing Bachelors of Technology (CSE).
 * __📃 Brief info__ : Born in 2004, hailing from India. Living to learn, earn and explore the diversities around. Meanwhile helping others too.
 * __🔍 Reach me__:
   * _Mail_ : rdofficial192@gmail.com
-  * _Instagram_ : https://www.instagram.com/rishavd._/
+  * _Instagram_ : https://www.instagram.com/r1shavd/
   * _Youtube_ : https://www.youtube.com/channel/UCfp-xR7cpyLOXVW8MYr59WA/
 
 ### My Github stats
 
-![rdofficial's github stats](https://github-readme-streak-stats.herokuapp.com/?user=rdofficial&theme=chartreuse-dark&hide_border=True)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdofficial&theme=gotham)
+![r1shavd's github stats](https://github-readme-streak-stats.herokuapp.com/?user=r1shavd&theme=chartreuse-dark&hide_border=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1shavd&theme=gotham)
 <p>
  <b>Visitors count</b>
  <br>
- <img src="https://profile-counter.glitch.me/rdofficial/count.svg" alt="Visitors count">
+ <img src="https://profile-counter.glitch.me/r1shavd/count.svg" alt="Visitors count">
 </p>
 
 ### Projects I made
 
 On my github profile, you fill find too many small projects, forked and abandoned repos. So for ease, below are listed some projects I work on regularly and are unique.
-* [Encrypted Diary Management](https://github.com/rdofficial/EncryptedDiaryManagement/)
-* [Anonymous File Hoster](https://github.com/rdofficial/NodeJsAnonHtmlHoster/)
-* [Encrypter - PHP](https://github.com/rdofficial/PhpEncrypter/)
-* [Thanos Snap](https://github.com/rdofficial/thanos-snap/)
-* [GIT Commits Bomber](https://github.com/rdofficial/git-commits-bomber/)
+* [Encrypted Diary Management](https://github.com/r1shavd/EncryptedDiaryManagement/)
+* [Anonymous File Hoster](https://github.com/r1shavd/NodeJsAnonHtmlHoster/)
+* [Encrypter - PHP](https://github.com/r1shavd/PhpEncrypter/)
+* [Thanos Snap](https://github.com/r1shavd/thanos-snap/)
+* [GIT Commits Bomber](https://github.com/r1shavd/git-commits-bomber/)
