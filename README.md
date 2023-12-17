@@ -16,17 +16,11 @@ My name is Rishav Das, currently pursuing an undergraduate course (B.Tech) in Co
 
 ![r1shavd's github stats](https://github-readme-streak-stats.herokuapp.com/?user=r1shavd&theme=chartreuse-dark&hide_border=True)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1shavd&theme=gotham)
-<p>
- <b>Visitors count</b>
- <br>
- <img src="https://profile-counter.glitch.me/r1shavd/count.svg" alt="Visitors count">
-</p>
 
 ### Projects I made
 
 On my github profile, you fill find too many small projects, forked and abandoned repos. So for ease, below are listed some projects I work on regularly and are unique.
-* [Encrypted Diary Management](https://github.com/r1shavd/EncryptedDiaryManagement/)
 * [Anonymous File Hoster](https://github.com/r1shavd/NodeJsAnonHtmlHoster/)
-* [Encrypter - PHP](https://github.com/r1shavd/PhpEncrypter/)
-* [Thanos Snap](https://github.com/r1shavd/thanos-snap/)
+* [Encrypter - VanillaJs](https://github.com/r1shavd/VanillaJsEncrypter/)
+* [Ip Tracker](https://github.com/r1shavd/ip-tracker-py/)
 * [GIT Commits Bomber](https://github.com/r1shavd/git-commits-bomber/)
