@@ -3,7 +3,7 @@
 My name is Rishav Das, currently pursuing an undergraduate course (B.Tech) in Computer Science and Engineering. I hail from India and below are some of the skills I got experience in.
 
 * __🤓 Programming Languages I know__ : Python, Javascript, PHP, C, bash (shell) scripting, HTML-CSS, Java.
-* __😃 Technologies and framework experienced of__ : Django, VanillaJs, NodeJs, express.js, react.js, Linux System Administrations, Ngnix
+* __😃 Technologies and framework experienced of__ : Django, VanillaJs, express.js, react.js, Linux System Administrations, Ngnix
 * __😇 Spoken languages I know__ : English, Hindi, Bengali.
 * __📚 Education__ : Currently pursuing Bachelors of Technology (CSE).
 * __📃 Brief info__ : Born in 2004, hailing from India. Living to learn, earn and explore the diversities around. Meanwhile helping others too.
