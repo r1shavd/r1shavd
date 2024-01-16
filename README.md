@@ -14,7 +14,7 @@ My name is Rishav Das, currently pursuing an undergraduate course (B.Tech) in Co
 
 ### My Github stats
 
-![r1shavd's github stats](https://github-readme-streak-stats.herokuapp.com/?user=r1shavd&theme=chartreuse-dark&hide_border=True)
+<!--![r1shavd's github stats](https://github-readme-streak-stats.herokuapp.com/?user=r1shavd&theme=chartreuse-dark&hide_border=True)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1shavd&theme=gotham)
 
 ### Projects I made
